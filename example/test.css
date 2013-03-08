@@ -5,7 +5,7 @@
   -o-border-radius: 10px;
   border-radius: 10px;
   background-color: blue;
-  background-image: url('../../dist/img/grunt-compass-test-fui/test.jpeg?1362729727');
+  background-image: url('../src/img/grunt_compass_test_fui/test.jpeg?1362563819');
   width: 100px;
   height: 100px;
 }

@@ -1,5 +1,5 @@
 @import "compass/css3/border-radius";
-$asset_url: 'grunt-compass-test-fui';
+$asset_url: 'grunt_compass_test_fui';
 .f {
 	@include border-radius(10px);
 	background-color: blue;
