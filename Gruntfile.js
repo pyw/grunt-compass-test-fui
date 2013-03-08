@@ -11,7 +11,7 @@ module.exports = function (grunt) {
     	dist: {
       	files: [
 					{expand: true, cwd: 'src/scss', src: ['**'], dest: 'dist/scss'},
-					{expand: true, cwd: 'src/img', src: ['**'], dest: 'dist/img'}
+					{expand: true, cwd: 'src/img/grunt_compass_test_fui', src: ['**'], dest: 'dist/img'}
 				]
       }
     },
